@@ -24,3 +24,9 @@ a {
     background: black;
   }
 }
+
+img {
+  display: block;
+  width: 30vw;
+  height: auto;
+}
